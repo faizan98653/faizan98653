@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am
-<a href="https://www.linkedin.com/in/faizan-zubair-3793b925a/" target="_blank">
+<a href="[https://www.linkedin.com/in/faizan-zubair-3793b925a/](https://faizan-fullstack-dev.vercel.app/)" target="_blank">
 Faizan Zubair
 </a>
 </h1>
